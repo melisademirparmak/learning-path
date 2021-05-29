@@ -1,0 +1,20 @@
+:root {
+  --theme-button-hover: #242486;
+  --theme-button-text: #ffffff;
+}
+.theme-orange {
+  background-color: #bb563c;
+}
+
+.theme-button-orange:hover {
+  background-color: #bb563c;
+}
+.theme-button {
+  background-color: var(--theme-light-color);
+  color: var(--theme-button-text);
+}
+
+/* .theme-button:hover {
+    background-color: var(--theme-button-hover);
+    color: var(--theme-button-text);
+    } */

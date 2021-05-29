@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "url": "w3-clone",
+        "demo": "https://melisademirparmak.github.io/w3-clone/",
+        "bigImage": "../img/1.png",
+        "smallImage": "../img/1.png",
+        "title": "W3 School Clone",
+        "date": "27 March 2021",
+        "colors": ["#46A049", "#CCCCCC", "#616161"],
+        "tags": ["html", "css", "w3school", "frontend"]
+    },
+    {
+        "id": 2,
+        "url": "creative",
+        "demo": "",
+        "bigImage": "../img/2.png",
+        "smallImage": "../img/2.png",
+        "title": "Creative",
+        "date": "29 March 2021",
+        "colors": ["#F4623A", "#212529", "#6c757d", "#000000"],
+        "tags": ["start bootstrap template", "css", "scss", "responsive","SASS"]
+    },
+    {
+        "id": 3,
+        "url": "w3-css-template",
+        "demo": "",
+        "bigImage": "../img/3.png",
+        "smallImage": "../img/3.png",
+        "title": "W3 School Template",
+        "date": "28 March 2021",
+        "colors": ["#616161", "#FF9800", "#FFEB3B", "#009688", "#2196F3", "#F44336","#3F51B5","#000000"],
+        "tags": ["w3 school", "template", "css", "html"]
+    },
+    
+    {
+        "id": 4,
+        "url": "convert_figma",
+        "demo": "",
+        "bigImage": "../img/4.png",
+        "smallImage": "../img/4.png",
+        "title": "Convert to  Figma",
+        "date": "29 March 2021",
+        "colors": ["#9C69E2", "#F063B8", "#000000", "#CCCCCC"],
+        "tags": ["figma", "desing", "html", "css"]
+    },
+    {
+        "id": 5,
+        "url": "procreatexd",
+        "demo": "",
+        "bigImage": "../img/5.png",
+        "smallImage": "../img/5.png",
+        "title": "Procreatexd Template",
+        "date": "29 March 2021",
+        "colors": ["#6c757d", "#212529", "#0d6efd", "#000000"],
+        "tags": ["bootstrap", "grid", "html"]
+    },
+   
+    {
+        "id": 6,
+        "demo": "",
+        "url": "start_bootstrap_template",
+        "bigImage": "../img/6.png",
+        "smallImage": "../img/6.png",
+        "title": "Start Bootstrap Template",
+        "date": "29 March 2021",
+        "colors": ["#2C3E50", "#1ABC9C", "#1A252F", "#000000"],
+        "tags": ["html", "css", "template"]
+    },
+    {
+        "id": 7,
+        "demo": "",
+        "url": "creative",
+        "bigImage": "../img/7.png",
+        "smallImage": "../img/7.png",
+        "title": "Asian Kitchen's Menu",
+        "date": "29 March 2021",
+        "colors": ["#00000", "#FF7F00"],
+        "tags": ["javascript", "filter", "map", "bootstrap" ,"html","function"]
+    }
+]

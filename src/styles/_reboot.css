@@ -1,0 +1,25 @@
+:root {
+  --theme-light-color: rgba(255, 255, 255, 0.03);
+  --theme-color: #0f0f1b;
+  --theme-text-color: #ffffff;
+  --transition: 0.5s;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1rem;
+  background-color: var(--theme-color);
+  color: var(--theme-text-color);
+}
+
+a {
+  display: inline-block;
+}
+
+a,
+button {
+  transition: var(--transition);
+}
