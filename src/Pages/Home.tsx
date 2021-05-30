@@ -13,7 +13,7 @@ import Days from '../days.json';
 const Home: React.FC = (): ReactElement => {
     return (
         <>
-            <Welcome title="Learning Path" description="   Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus excepturi modi laborum explicabo provident delectus itaque ab beatae! Accusamus, aperiam!  " />
+            <Welcome title="Learning Path" description="Lorem ipsum dolor sit amet consectetur adipisicing elit.    Necessitatibus excepturi modi laborum explicabo provident delectus itaque ab beatae! Accusamus, aperiam!" />
             <div className="container mx-auto md:px-5">
                 <div className="md:flex md:flex-wrap md:-mx-5">
                     {Days.map((day, index) => (

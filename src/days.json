@@ -13,7 +13,7 @@
     {
         "id": 2,
         "url": "creative",
-        "demo": "",
+        "demo": "https://melisademirparmak.github.io/creative/",
         "bigImage": "../img/2.png",
         "smallImage": "../img/2.png",
         "title": "Creative",
@@ -24,7 +24,7 @@
     {
         "id": 3,
         "url": "w3-css-template",
-        "demo": "",
+        "demo": "https://melisademirparmak.github.io/w3-css-template/",
         "bigImage": "../img/3.png",
         "smallImage": "../img/3.png",
         "title": "W3 School Template",
@@ -47,7 +47,7 @@
     {
         "id": 5,
         "url": "procreatexd",
-        "demo": "",
+        "demo": "https://melisademirparmak.github.io/procreatexd/",
         "bigImage": "../img/5.png",
         "smallImage": "../img/5.png",
         "title": "Procreatexd Template",
@@ -58,7 +58,7 @@
    
     {
         "id": 6,
-        "demo": "",
+        "demo": "https://melisademirparmak.github.io/start_bootstrap_template/",
         "url": "start_bootstrap_template",
         "bigImage": "../img/6.png",
         "smallImage": "../img/6.png",
@@ -69,8 +69,8 @@
     },
     {
         "id": 7,
-        "demo": "",
-        "url": "creative",
+        "demo": "https://melisademirparmak.github.io/asian_kitchen_menu/",
+        "url": "asian_kitchen_menu",
         "bigImage": "../img/7.png",
         "smallImage": "../img/7.png",
         "title": "Asian Kitchen's Menu",
